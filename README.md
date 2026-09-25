@@ -1,9 +1,12 @@
-Hey, I'm Nivas 👋
+## Hi 👋
 
-I build software that solves real problems — AI systems, backend services, automation, data pipelines, and full-stack applications. I like taking messy ideas, breaking them down, and turning them into something fast, clean, and actually useful.
+I build software across **AI, backend systems, automation, data, and full-stack applications**. I enjoy taking vague ideas, messy workflows, or repetitive problems and turning them into something clean, useful, and scalable.
 
-Most of my work starts with “can we automate this?”, “can we make this smarter?”, or “why is this still manual?” — and usually ends with code.
+I use **ChatGPT and Claude** as part of my development workflow — to explore architectures, prototype faster, debug, review code, test ideas, and challenge my own assumptions. They help me move faster, but **the design, decisions, standards, and engineering responsibility are mine**.
 
-I’m constantly building, breaking, testing, learning, and shipping.
+Some days I am building a RAG pipeline, some days an API or automation, and some days just a small tool that removes hours of manual work.
 
-Less hype. More building.
+I care less about hype and more about **building things that work, solving real problems, and shipping software people can actually use**.
+
+The tools keep changing.
+**The curiosity to build doesn’t.**
